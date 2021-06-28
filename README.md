@@ -1,6 +1,6 @@
 **👋 Hi! I'm syndrome.**
 
-*🌎 syndr.me[https://syndr.me] ; syndrome.codes ; syndr.tech*
+*🌎 [syndr.me](https://syndr.me) ; syndrome.codes ; syndr.tech*
 
 *__Contact__*
 

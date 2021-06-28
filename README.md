@@ -1,9 +1,13 @@
-**👋 Hi! I'm syndrome.**
+## 👋 Hi! I'm syndrome.
 
-*🌎 [syndr.me](https://syndr.me) ; syndrome.codes ; syndr.tech*
+---
+
+🌎 [syndr.me](https://syndr.me) ; [syndrome.codes](https://syndrome.codes) ; [syndr.tech](https://syndr.tech)
 
 *__Contact__*
 
-*✉️ • s@syndrome.codes*
+***
 
-*💬 • syndrome#1234*
+✉️ • s@syndrome.codes
+
+💬 • syndrome#1234

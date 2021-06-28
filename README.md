@@ -3,7 +3,7 @@
 🌎 [syndr.me](https://syndr.me) ; [syndrome.codes](https://syndrome.codes) ; [syndr.tech](https://syndr.tech)
 
 Contact
-___
+________
 
 ✉️ • s@syndrome.codes
 

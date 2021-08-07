@@ -7,4 +7,4 @@ ________
 
 ✉️ • s@syndrome.codes
 
-💬 • syndrome#1234
+💬 • syndrome#0001

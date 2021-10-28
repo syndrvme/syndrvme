@@ -1,6 +1,5 @@
 ## 👋
 
-<p align="center">
 🌎 [syndr.me](https://syndr.me)
 
 ________

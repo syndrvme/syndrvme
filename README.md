@@ -1,4 +1,4 @@
-## 👋
+### 👋
 
 🔗 [syndr.me](https://syndr.me)
 
